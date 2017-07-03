@@ -1,0 +1,46 @@
+﻿  Tally Change Log (2017 Release) 
+
+  April 2017 (0.2.1) Build 12
+	- Initial release not in minimal mode
+	- Bug fixes in MenuShowNow 
+	- Bug fixes in NetworksApi.Server() connectivity
+	- Bug fixes in NetComm application extension
+	- Added RegisterSoftware user control
+	- Modification in About Us tab, removed unneccessary features
+	- Transferred Configure in Judge Me tab for easy ease
+	- Release 
+
+  May 2017 (1.2.8) Build 8
+	- Updated user interface with minimal UI
+	- Added MetroFramework application extension
+	- Rapid update of new features
+	- Added SoftwareTrials method
+	- Added SendAsEmail() for sharing results over the net
+	  using CPESA credentials in smtp.gmail.com
+	- Added SendAsSMS() for sharing results via SMS Messaging 
+	  through ipipi.com or clickatell.com API  
+	- Bug fixes in SaveBitmap() DrawControl method
+	- Removed SaveToText() method, we will transfer this as
+	  SaveToHtml() for easy ease.
+	- Added SplashFormLoad user control for optimization
+	- Added LoadRateThisSoftware for user rating
+	- Modified user interface on Build 24
+	- Added MetroStyleColor() on judging form for random
+	  color entry to avoid confusion
+	- Release Beta Testing
+  
+  June 2017 (1.6.8-ece) Build 10
+	- Added GenerateBardode() on Entry
+
+  June 2017 (1.9.4-comp) Build 12
+	- Added PrintToPdf() method for print sharing
+	- Bug fixes, won't run on other computer/desktop
+	- Major user-interface redesign
+	- Bug fixes on SaveToBmp()
+	- Fixed external links
+	- MaximizeBox is enabled
+	- Redesigned JudgesForm user control
+	- Release Testing
+
+
+

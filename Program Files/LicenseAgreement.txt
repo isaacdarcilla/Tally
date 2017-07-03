@@ -1,0 +1,32 @@
+﻿  Piscean Software Limited License Agreement  
+
+  1. The computer  software,   artwork and other components included in this 
+     version   of  product (collectively the "Software") are   the exclusive 
+     copyrighted property of Piscean Ltd. You must not (a) sell, rent, lease 
+     or sublicense all or any portion of the Software; (b) modify or prepare 
+     derivative  works of the  Software; (c)  reverse engineer, decompile or 
+     disassemble  the  Software; (d) publish serial numbers or serial number 
+     generation  algorithms.
+
+  2. You are granted one user license to use the Software for non-commercial 
+     purposes   during   2 days   trial   period on  one computer. After the 
+     expiration of the trial period,   you must  either   uninstall Tally or 
+     purchase it.
+
+  3. The   Software may be distributed freely if the distribution package is 
+     not modified   and if you give a  link to Tally home page. You must not 
+     bundle  the   Software in any   other  distribution   packages and take 
+     distribution fees without our agreement.
+
+  4. The software   is   distributed  "AS IS".  No   warranty of any kind is 
+     expressed or implied. You use the software at your own risk. The Author
+     will not be liable for data loss, damages, loss of profits or any other
+     kind of loss while using or misusing the software.
+
+  5. The installation and the usage of the   Software mean the acceptance of 
+     these terms and conditions of the license.
+
+  6. If you do not agree with the  terms of this   license you must stop the 
+     usage of the Software and uninstall it.
+
+  7. Piscean Tally are trademark of Piscean Software Limited.
